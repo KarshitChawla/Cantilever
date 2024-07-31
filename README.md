@@ -1,10 +1,5 @@
 ### NEWS app
 - This app is made using Vite + React
-
-## Preview
-![Screenshot 2023-07-22 195940](https://github.com/preston176/news-app-react/assets/49411983/14f547fa-344c-42f1-9e6f-cc0c8195646b)
-
-
  ## Fork the Repository
 
 Begin by forking the repository to your own GitHub account. This creates a copy where you can make your changes.
